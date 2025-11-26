@@ -4,3 +4,4 @@ The first project is kind of cool, and compicated as well. The dataset is based 
 I would like to acknowledge that this project is not fully mine. It is from one of the YouTube videos. But, I faced many difficulty while working on the project as I had many questions in my mind: Why are we using this function? Why that function is used? 
 I hope this project will help you understand the importance of data cleaning, and K-Mean Clustering. 
 In the end, I will like to give credit to Chat GPT as well, for helping me understand the code. 
+Link to Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii 
